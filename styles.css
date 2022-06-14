@@ -1,0 +1,22 @@
+h1 {
+    margin: auto;
+    color: red;
+    text-align: center;
+    font-size: 10rem;
+}
+h2{
+    text-align: center;
+    margin: auto;
+    font-size: 1.5rem;
+}
+img{
+    margin: auto;
+    text-align: center;
+    position: relative;
+    width: 450px;
+    left: 33.3%;
+}
+.fill{
+    margin: auto;
+    text-align: center;
+}

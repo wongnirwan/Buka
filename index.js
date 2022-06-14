@@ -1,0 +1,6 @@
+alert("Woy")
+alert("Kapan?")
+alert("Kita")
+alert("Bisa")
+alert("Makan")
+alert("Disini?")
